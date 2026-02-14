@@ -1,0 +1,140 @@
+{
+  "chapters": [
+    {
+      "id": "portugal",
+      "kicker": "Chapter 1",
+      "title": "Portugal for our 10-year anniversary",
+      "description": "City views, ocean sunsets, castles, caves, and a lot of smiling at each other.",
+      "items": [
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0037.jpg",
+          "thumb": "public/media/thumbs/IMG_0037.jpg",
+          "title": "Algarve cliffside portrait",
+          "note": "Golden light, ocean air, and us in our element.",
+          "orientation": "landscape",
+          "timestamp": "Nov 8, 2025 • 10:04 PM",
+          "location": "Algarve Coast"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0139.jpg",
+          "thumb": "public/media/thumbs/IMG_0139.jpg",
+          "title": "Beach day in the Algarve",
+          "note": "Ocean views, big smiles, and vacation mode fully activated.",
+          "orientation": "landscape",
+          "timestamp": "Nov 9, 2025 • 5:03 PM",
+          "location": "Albufeira"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0348.jpg",
+          "thumb": "public/media/thumbs/IMG_0348.jpg",
+          "title": "Castle walls in Sintra",
+          "note": "Ancient stones, modern love story.",
+          "orientation": "landscape",
+          "timestamp": "Nov 10, 2025 • 8:41 PM",
+          "location": "Sintra"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/d21a9754-eb07-4e6b-bf12-5ea5201275ab.jpg",
+          "thumb": "public/media/thumbs/d21a9754-eb07-4e6b-bf12-5ea5201275ab.jpg",
+          "title": "Sunshine + Sintra selfies",
+          "note": "The light hit just right — and so did this moment.",
+          "orientation": "portrait",
+          "timestamp": "Feb 14, 2026 • 12:18 AM",
+          "location": "Sintra"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0474.jpg",
+          "thumb": "public/media/thumbs/IMG_0474.jpg",
+          "title": "Rainy-day palace mission",
+          "note": "A little drizzle, a lot of charm, zero complaints.",
+          "orientation": "landscape",
+          "timestamp": "Nov 11, 2025 • 3:20 PM",
+          "location": "Sintra"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0638.jpg",
+          "thumb": "public/media/thumbs/IMG_0638.jpg",
+          "title": "Cascais waterfront sunset",
+          "note": "Soft evening light and that just-us feeling.",
+          "orientation": "landscape",
+          "timestamp": "Nov 11, 2025 • 9:40 PM",
+          "location": "Cascais"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0043.jpg",
+          "thumb": "public/media/thumbs/IMG_0043.jpg",
+          "title": "Sunset on the Algarve cliffs",
+          "note": "Sunset, sea breeze, and your favorite person. Perfect combo.",
+          "orientation": "portrait",
+          "timestamp": "Nov 8, 2025 • 10:05 PM",
+          "location": "Algarve Coast"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0654.jpg",
+          "thumb": "public/media/thumbs/IMG_0654.jpg",
+          "title": "Dinner date in Cascais",
+          "note": "Good food, easy laughs, and zero rush to leave.",
+          "orientation": "landscape",
+          "timestamp": "Nov 11, 2025 • 10:45 PM",
+          "location": "Cascais"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_9752.jpg",
+          "thumb": "public/media/thumbs/IMG_9752.jpg",
+          "title": "Lisbon rooftops at golden hour",
+          "note": "A postcard view and two very happy faces.",
+          "orientation": "portrait",
+          "timestamp": "Nov 6, 2025 • 10:03 PM",
+          "location": "Lisbon"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "kicker": "Chapter 2",
+      "title": "Two homes, one love story",
+      "description": "First two memories: moving into 311 Keewatin. Last three memories: saying goodbye to 221 Erskine.",
+      "items": [
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_0209.jpg",
+          "thumb": "public/media/thumbs/IMG_0209.jpg",
+          "title": "First look at 311 Keewatin",
+          "note": "The fireplace that welcomed us into our new chapter.",
+          "orientation": "landscape",
+          "timestamp": "Dec 12, 2025 • 8:33 PM",
+          "location": "Toronto"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_2156.jpg",
+          "thumb": "public/media/thumbs/IMG_2156.jpg",
+          "title": "Goodbye, 221 Erskine front door",
+          "note": "A sweet goodbye to the place that held so many memories.",
+          "orientation": "landscape",
+          "timestamp": "Dec 18, 2025 • 1:36 PM",
+          "location": "Toronto"
+        },
+        {
+          "type": "image",
+          "src": "public/media/full/IMG_2126.jpg",
+          "thumb": "public/media/thumbs/IMG_2126.jpg",
+          "title": "Final kitchen selfie at 221",
+          "note": "One last snapshot before turning the page.",
+          "orientation": "landscape",
+          "timestamp": "Dec 18, 2025 • 1:21 PM",
+          "location": "Toronto"
+        }
+      ]
+    }
+  ]
+}

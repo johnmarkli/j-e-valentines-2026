@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>J + E — Valentine’s Day 2026</title>
+    <meta name="description" content="A sweet photo story of Portugal, home, and us." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="hearts" aria-hidden="true"></div>
+
+    <header class="hero">
+      <p class="eyebrow">Valentine’s Day 2026</p>
+      <h1>J + E: Ten Years In, Still My Favorite Adventure</h1>
+      <p class="subtitle">
+        From Portugal coastlines to the front door of our new place — this is our little love scrapbook.
+      </p>
+      <div class="hero-actions">
+        <a href="#story" class="btn">Open our story</a>
+      </div>
+    </header>
+
+    <main id="story" class="story"></main>
+
+    <section class="love-note">
+      <h2>To many more firsts</h2>
+      <p>
+        Ten years later and somehow it keeps getting better: better trips, better laughs, better home, better us.
+      </p>
+      <p class="signature">Happy Valentine’s Day ❤️</p>
+    </section>
+
+    <dialog id="lightbox" class="lightbox">
+      <button id="closeLightbox" class="close" aria-label="Close">×</button>
+      <img id="lightboxImg" alt="Expanded memory" />
+      <p id="lightboxCaption"></p>
+    </dialog>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
