@@ -12,27 +12,9 @@ python3 -m http.server 8080
 
 Then open: `http://localhost:8080`
 
-## Deploy to GitHub Pages
+## Live site
 
-This project is plain static files, so you can deploy from the repository root.
-
-1. Push this folder to a GitHub repo.
-2. In **Settings → Pages**, set source to:
-   - **Deploy from a branch**
-   - Branch: `main` (or your default)
-   - Folder: `/ (root)`
-3. Save.
-
-Your site will be served by GitHub Pages with no extra config.
-
-### Live site
-
-- Site: `https://johnmarkli.github.io/j-e-valentines-2026/`
-
-Verified endpoints:
-- `GET /` → `200`
-- `GET /data/photos.json` → `200`
-- Assets CDN sample (`@assets` branch) → `200`
+[https://johnmarkli.github.io/j-e-valentines-2026/](https://johnmarkli.github.io/j-e-valentines-2026/)
 
 ## Keep images on a dedicated `assets` branch
 
