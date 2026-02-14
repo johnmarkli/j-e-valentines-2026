@@ -25,6 +25,15 @@ This project is plain static files, so you can deploy from the repository root.
 
 Your site will be served by GitHub Pages with no extra config.
 
+### Live site
+
+- Site: `https://johnmarkli.github.io/j-e-valentines-2026/`
+
+Verified endpoints:
+- `GET /` → `200`
+- `GET /data/photos.json` → `200`
+- Assets CDN sample (`@assets` branch) → `200`
+
 ## Keep images on a dedicated `assets` branch
 
 This repo is configured to load image paths from jsDelivr pointing at the `assets` branch:
